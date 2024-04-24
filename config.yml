@@ -1,0 +1,20 @@
+# ------------------------------------------------------
+# MINEMONEY-TOWNY Configuration File (config.yml)
+# 
+# Editing the settings in this file will change the way
+# plugin works on your server. To reset this file to
+# its default values, simply delete your config.yml and
+# stop/restart your server.
+# ------------------------------------------------------
+#
+# LOADED MARKER | Dummy value to check against at start-up, don't change!
+loaded: true
+# 
+# COST PER BONUS | How much balance is taken for each bonus bought.
+cost_per_bonus: 100
+#
+# PLOTS PER BONUS | How many bonus plots are awarded for each bonus bought.
+plots_per_bonus: 1
+#
+# TOWN SIZE MULTIPLIER | The price per bonus is increased by this amount multiplied by the number of plots the town owns.
+town_size_multiplier: 0
